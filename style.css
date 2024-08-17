@@ -1,0 +1,13 @@
+img{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    border: solid crimson;
+    margin-left: 99px;
+} 
+.T2{
+    position: absolute;
+    color: red;
+    left: 190px;
+    bottom: 130px;
+}
